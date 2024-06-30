@@ -1,0 +1,9 @@
+name: SpongeCakes
+version: '${project.version}'
+main: net.bitbylogic.spongecakes.SpongeCakes
+api-version: '1.21'
+authors: [ "BitByLogic" ]
+softdepend: [ "GriefPrevention", "WorldGuard" ]
+commands:
+  spongecakes:
+    description: "Reload configuration!"
